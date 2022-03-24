@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Chintan Dhameliya 1
+          Chintan Dhameliya
         </a>
       </header>
     </div>
