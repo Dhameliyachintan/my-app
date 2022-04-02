@@ -84,9 +84,7 @@ import './App.css';
 
 // ======medicine ======//
  function App() {
-  let data =
-  [
-     {
+  let data = [     {
        id: 101,
        name: 'Abacavir',
        quantity: 25,
