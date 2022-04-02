@@ -11,6 +11,12 @@ function App() {
   {/* //copyarry */}
   let arr3 = [...arr1, ...arr2];
   console.log(arr3);
+
+  return (
+    <div>
+     
+    </div> 
+  )
 }
 
 export default App;
