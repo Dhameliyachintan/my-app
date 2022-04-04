@@ -1,6 +1,6 @@
 import React from 'react';
 
-function Employe(props) {
+function Employee(props) {
     let data =  [
                     {
                       name: "amit",
@@ -79,4 +79,4 @@ function Employe(props) {
     );
 }
 
-export default Employe;
+export default Employee;
