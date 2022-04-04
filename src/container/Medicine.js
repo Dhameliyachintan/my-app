@@ -1,6 +1,6 @@
 import React from 'react';
 
-function Medicine(props) 
+export function Medicine(props) 
 {let data =
       [
          {
