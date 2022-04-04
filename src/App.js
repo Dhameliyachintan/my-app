@@ -1,10 +1,14 @@
 import React from 'react';
-import Employes from './container/Employes';
+import Array from './container/Array';
+import Employe from './container/Employe';
+import Medicine from './container/Medicine';
 
 function App(props) {
   return (
     <div>
-     <Employes />
+     <Employe/>
+     <Medicine />
+     <Array />
     </div>
   );
 }
